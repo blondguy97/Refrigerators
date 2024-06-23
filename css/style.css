@@ -266,6 +266,7 @@ a {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: bottom;
+  border-radius: 10px;
 }
 ._customer-price__descr {
   max-width: 530px;
